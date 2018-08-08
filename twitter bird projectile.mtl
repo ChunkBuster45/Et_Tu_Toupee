@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MagicaVoxel @ Ephtracy
 
 newmtl palette
@@ -17,3 +18,24 @@ Kd 1.000 1.000 1.000
 Ks 0.000 0.000 0.000
 map_Kd twitter bird projectile.png
 >>>>>>> abebfc46cf809b7fbc0d6888dfc39fe310179254
+=======
+<<<<<<< HEAD
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd twitter bird projectile.png
+=======
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd twitter bird projectile.png
+>>>>>>> abebfc46cf809b7fbc0d6888dfc39fe310179254
+>>>>>>> ebe3877c3daa59156cabca0cfd8a1b3fe70b6826
