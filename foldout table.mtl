@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MagicaVoxel @ Ephtracy
 
 newmtl palette
@@ -18,6 +19,27 @@ Kd 1.000 1.000 1.000
 Ks 0.000 0.000 0.000
 map_Kd foldout table.png
 >>>>>>> abebfc46cf809b7fbc0d6888dfc39fe310179254
+=======
+<<<<<<< HEAD
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd foldout table.png
+=======
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd foldout table.png
+>>>>>>> abebfc46cf809b7fbc0d6888dfc39fe310179254
+>>>>>>> 9cdc9139923bb3933f61de1167ff78215e4bf923
 =======
 <<<<<<< HEAD
 # MagicaVoxel @ Ephtracy
